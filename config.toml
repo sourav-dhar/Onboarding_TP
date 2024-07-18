@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#4CAF50"  # Light green accent
+backgroundColor = "#F5F5F5"  # Light background
+secondaryBackgroundColor = "#FFFFFF"  # White background for sidebar
+textColor = "#333333"  # Dark text
+font = "sans serif"
+
+
+
+
